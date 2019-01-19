@@ -1,0 +1,15 @@
+{
+  "background_color": "#444444",
+  "description": "EazyMusic vous permet d'apprendre facilement la musique",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "EazyMusic",
+  "short_name": "EazyMusic",
+  "start_url": "/index.html"
+}
