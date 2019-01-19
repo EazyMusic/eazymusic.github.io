@@ -87,13 +87,13 @@ input, select, textarea {
 	}
 
 	body {
-		background-image:  url("images/bg02.jpg");
+		background-image:  url("images/bg02.png");
 	
 		background-color: #f7f7f7;
 		background-position: top left, top left;
 	
-		background-size: 100%;
-		background-repeat: no-repeat;
+		background-size: auto;
+		background-repeat: repeat-x;
 
   background-attachment: fixed;
 		font-family: 'Open Sans', sans-serif;
